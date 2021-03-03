@@ -1,3 +1,33 @@
+#Tipo de varáveis em Python
+
+#Int
+#Float
+#Str
+#bytes
+#bool
+#object
+#type
+
+# list
+# Tamanho desconhecido, tipo desconhecido
+friends =["eduardo", "Dan", 1]
+
+
+
+# dict
+data = {
+    "nome": "Gustavao",
+    "age":20,
+    "gender": "male"
+}
+
+print(data.key)
+
+
+#tupla = imutavel, 
+ufs = ("SP", "RJ")
+
+#=================================================================
 ### Variaveis
 
 NomeDoFilme = "Star Wars"
